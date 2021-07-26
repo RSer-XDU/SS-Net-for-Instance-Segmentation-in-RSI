@@ -3,4 +3,4 @@ This is the code for "Semantic Attention and Scale Complementary Network for Ins
 
 ![](https://github.com/RSer-XDU/SS-Net-for-Instance-Segmentation-in-RSI/tree/main/imgs)
 
-This code is based on [Markdown](https://github.com/open-mmlab/mmdetection)
+This code is based on [MMDetction](https://github.com/open-mmlab/mmdetection)
